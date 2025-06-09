@@ -1,0 +1,2 @@
+# eqarea
+equal effort
